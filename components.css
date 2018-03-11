@@ -207,14 +207,13 @@ h3 {
 }
 
 .folio-card {
-    position: gi;
+    position: relative;
     height: 300px;
     background-color: #ccc;
     /* border: 2px solid #ffc925; */
 }
 
 .folio-card:focus {
-    position: relative;
     background-color: #e4b21d;
     outline: none;
 }
